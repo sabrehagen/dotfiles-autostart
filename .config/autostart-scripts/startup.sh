@@ -1,1 +1,0 @@
-/jackson/home/.config/scripts/startup.sh
